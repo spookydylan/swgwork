@@ -1,0 +1,2 @@
+# swgwork
+Software Guild Exercises 
